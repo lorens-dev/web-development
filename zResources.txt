@@ -1,0 +1,5 @@
+Resources
+Icons: https://remixicon.com/
+Font: https://fonts.google.com/
+Swiper: https://swiperjs.com/
+Clip-path: https://bennettfeely.com/clippy/
